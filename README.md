@@ -1,4 +1,6 @@
 React Youtube API Search
 
-npm install 
+You must supply your own Youtube API
+
+npm install  
 npm start
